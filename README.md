@@ -1,2 +1,4 @@
 # Detection-Radar-For-Rotor-Craft-Capstone
- Repo for code regarding the Senior Design project for Spring 2020 at Iowa State University
+Repo for code regarding the Senior Design project for Spring 2020 at Iowa State University
+
+The purpose of this project is to design a radar system for small aircraft to avoid collision with foreign objects. This radar system would comprise of a microcontroller, original circuitry, and an antenna design given to the group. The system would function by using an optimized version of the given antenna to scan for objects by sending out waves. Any waves that collide with an object would reflect back to our antenna. The reflected waves would then be processed by the designed circuitry and then sent to our microcontroller. From there, the microcontroller would send the information to a computer where a visual representation of the object that the waves collide would be formed. This visual representation would be interpreted by an operator, thus allowing any objects to be avoided by the small aircraft.
